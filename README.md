@@ -2,6 +2,9 @@
  A todo list app using Kotlin,Room and Firebase integration for Signup.
  
 
-Uploading Screen_Recording_20230401_154433_Todo.mp4…
+
+https://user-images.githubusercontent.com/87303673/229280501-e9ac9ea7-f060-4098-9a6c-8e4fb933d81f.mp4
+
+
 
 
